@@ -1,0 +1,25 @@
+Name: [Your Name]
+Email:[Your Email]
+GitHub Username:[Your GitHub Handle]
+Date:[DD/MM/YYYY]
+
+I received a suspicious email pretending to be from GitHub. It asked me to click a link and enter my login details, which appears to be a phishing attempt.
+
+Email Details
+Sender:[e.g., support@github-alert.com]
+Subject:[e.g., "Account Suspended – Urgent Action Required"]
+Received on:[Date and Time]
+Platform:[e.g., Gmail, Outlook]
+
+ Suspicious Links
+[e.g., http://github-login-alert.com]
+ 
+Attachments / Headers
+
+Attachments:[Yes/No]
+Email Headers:[Paste headers if available]
+
+📝 Notes
+
+ I did *not* enter any details.
+ Please investigate and take necessary action.
