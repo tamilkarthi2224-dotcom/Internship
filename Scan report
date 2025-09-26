@@ -1,0 +1,13 @@
+Short Vulnerability Summary
+
+Total findings: 23
+Severity: 1 Medium, 1 Mixed, 21 Informational
+Top risk: SMB Signing not required (CVSS 5.3) — high priority.
+Other clusters: SSL/TLS issues (4), SMB info (6), HTTP (2), Netstat port findings (50 entries), DCE/RPC (8).
+
+Immediate fixes:
+1. Enable SMB signing on servers/clients.
+2. Enforce TLS 1.2+ / TLS 1.3 and remove weak ciphers.
+3. Close/restrict unnecessary ports and services; restrict RPC to trusted networks.
+
+Risk level: Low-to-moderate overall if SMB is remediated; many items are informational but useful for attacker recon.
