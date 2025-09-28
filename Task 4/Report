@@ -1,0 +1,9 @@
+Steps Performed
+
+1. Opened wf.msc (Windows Firewall with Advanced Security).
+2. Created a new outbound rule to block TCP port 80.
+3. Attempted to access http://example.com in Microsoft Edge.
+4. Removed/unblocked the outbound rule for port 80.
+5. Reloaded http://example.com in Microsoft Edge.
+Result: Page loaded successfully, showing the Example Domain message.
+Screenshot (Unblocked):
